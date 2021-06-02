@@ -15,7 +15,7 @@
 # Saída                                                                                             #
 # A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes #
 # e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.         #
-#                                                                                                   #
+#                                                                                                  #
 #####################################################################################################
 */
 #include <stdio.h>
